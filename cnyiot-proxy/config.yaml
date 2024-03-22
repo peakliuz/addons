@@ -1,5 +1,5 @@
 name: cnyiot-proxy
-version: v1.0.0
+version: v1.0.1
 slug: cnyiot-proxy
 codenotary: peakliuz@outlook.com
 description: '以REST Api方式提供晨域智能电表的用电信息'
