@@ -4,10 +4,9 @@ slug: cnyiot-proxy
 codenotary: peakliuz@outlook.com
 description: '以REST Api方式提供晨域智能电表的用电信息'
 url: https://github.com/peakliuz/cnyiot-proxy
-image: peakliuz/{arch}-cnyiot-proxy
+image: peakliuz/cnyiot-proxy
 init: false
 arch:
-  - aarch64
   - amd64
 ports:
   6232/tcp: 6232
